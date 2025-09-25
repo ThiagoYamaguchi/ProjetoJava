@@ -14,7 +14,7 @@ Senha: Projeto!1
 
 #### Comandos para a criação do DB no MySQL:
 
-create database db_senhas;
+`create database db_senhas;
 use db_senhas;
 
 create table dados_senhas(
@@ -38,4 +38,4 @@ create table dados_projetos(
     -> descricaopj varchar(45) not null,
     -> datainicio varchar(10) not null,
     -> datatermino varchar(10) not null,
-    -> status varchar(45) not null);
+    -> status varchar(45) not null);`
